@@ -21,7 +21,7 @@ This project uses an **ESP32 or ESP8266** to send real-time **temperature and hu
 - Breadboard
 - Wi-Fi connection
 
----
+----
 
 ## 🧰 Software Requirements
 
