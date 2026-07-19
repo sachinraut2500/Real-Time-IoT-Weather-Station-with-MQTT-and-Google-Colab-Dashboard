@@ -2,7 +2,7 @@
 
 This project uses an **ESP32 or ESP8266** to send real-time **temperature and humidity** data from a DHT sensor to a public **MQTT broker**, and visualizes that data in real-time using a **Python-based dashboard** with `matplotlib`.
 
------
+-----/
 
 ## 🚀 Features
 
@@ -11,9 +11,9 @@ This project uses an **ESP32 or ESP8266** to send real-time **temperature and hu
 - ✅ Works in both Google Colab and local Python environments.
 - Modular, extensible, and beginner-friendly.
 
----
+-----
 
-## 🛠 Hardware Required
+## 🛠 Hardware Require
 
 - ESP32 or ESP8266 microcontroller
 - DHT11 or DHT22 sensor
