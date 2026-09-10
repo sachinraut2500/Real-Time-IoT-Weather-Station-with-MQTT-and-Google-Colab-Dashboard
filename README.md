@@ -39,7 +39,7 @@ This project uses an **ESP32 or ESP8266** to send real-time **temperature and hu
 
 > The script auto-installs missing Python dependencies when run.
 
----
+-----
 
 ## 📡 MQTT Configuration
 
