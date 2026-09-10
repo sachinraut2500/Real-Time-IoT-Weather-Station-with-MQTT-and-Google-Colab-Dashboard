@@ -11,7 +11,7 @@ This project uses an **ESP32 or ESP8266** to send real-time **temperature and hu
 - ✅ Works in both Google Colab and local Python environments.
 - Modular, extensible, and beginner-friendly.
 
------
+-------
 
 ## 🛠 Hardware Require
 
